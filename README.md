@@ -1,4 +1,4 @@
-# <span style="color: #ff201e">OperatorRazz.</span> The fastest and easiest way to&nbsp;create a&nbsp;GitHub Pages website for your project.
+# <span style="color: #ff201e">OperatorRazz.</span>
 #### Maker • Laser enthusiast • Woodworker • Techie • PC gamer • Overthinker<br>
 Always learning • Positive vibes
 
