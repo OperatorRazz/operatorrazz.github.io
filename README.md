@@ -1,3 +1,9 @@
+<div class="container" style="display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* 100% of the viewport height */">
+  <div class="content" style="text-align: center; /* Optional: Center text within the container */
+    max-width: 80%; /* Optional: Limit content width */">
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
   <div style="flex: 0 auto; padding: 10px; box-sizing: border-box;">
     <img src="/assets/images/operatorrazz.png" alt="OperatorRazz" style="border-radius: 50%; width: 250px; height: 250px;" />
@@ -17,3 +23,5 @@
 <br><br>
 <u>Business Email</u><br>
 <a href="mailto:operatorrazz@gmail.com">OperatorRazz[at]gmail[.]com
+  </div>
+</div>
