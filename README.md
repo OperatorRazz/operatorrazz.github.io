@@ -1,15 +1,11 @@
-<div class="container" style="display: flex; flex-wrap: wrap;">
-  <div class="column" style="flex: 1; padding: 10px; box-sizing: border-box; border: 1px solid #ccc;">
-    <h2>Column 1</h2>
-    <p>This is the content of column 1.</p>
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; padding: 10px; box-sizing: border-box; border: 1px solid #ccc;">
+    <h2>Div 1</h2>
+    <p>This is the content of div 1.</p>
   </div>
-  <div class="column" style="flex: 1; padding: 10px; box-sizing: border-box; border: 1px solid #ccc;">
-    <h2>Column 2</h2>
-    <p>This is the content of column 2.</p>
-  </div>
-  <div class="row" style="clear: both; padding: 10px; margin-top: 10px; border: 1px solid #ccc; width: 100%;">
-    <h2>Spanning Row</h2>
-    <p>This row spans both columns.</p>
+  <div style="flex: 1; padding: 10px; box-sizing: border-box; border: 1px solid #ccc;">
+    <h2>Div 2</h2>
+    <p>This is the content of div 2.</p>
   </div>
 </div>
 
