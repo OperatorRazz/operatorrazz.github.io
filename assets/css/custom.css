@@ -1,3 +1,24 @@
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 800
+
+.ubuntu-sans-ubu {
+  font-family: "Ubuntu Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
 header {
   display: none;
+}
+body > footer, body > header, body > main {
+  padding: 0 !important;
+}
+a:link, a:visited, a:active {
+  color: #fff;
+  text-decoration: none !important;
+}
+a:hover {
+  color: #ff201e;
 }
