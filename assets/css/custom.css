@@ -16,3 +16,7 @@ a:link, a:visited, a:active {
 a:hover {
   color: #ff201e;
 }
+.social_divider {
+  padding: 0 7px 0 7px;
+  color: #ff201e;
+}
