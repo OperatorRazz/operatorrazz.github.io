@@ -1,15 +1,14 @@
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; padding: 10px; box-sizing: border-box; border: 1px solid #ccc;">
-    <h2>Div 1</h2>
-    <p>This is the content of div 1.</p>
+    <img src="/assets/images/operatorrazz.png" alt="OperatorRazz" style="border-radius: 50%; width: 250px; height: 250px;" />
   </div>
   <div style="flex: 1; padding: 10px; box-sizing: border-box; border: 1px solid #ccc;">
-    <h2>Div 2</h2>
-    <p>This is the content of div 2.</p>
+    <h1><span style="color: #ff201e">Operator</span><span style="color: #ffffff">Razz</span><span style="color: #ff201e">.</span></h1>
+    <h4>Maker • Laser enthusiast • Woodworker • Techie • PC gamer • Overthinker • Always learning • Positive vibes</h4>
   </div>
 </div>
 
-<div style="display: inline;"><img src="/assets/images/operatorrazz.png" alt="OperatorRazz" style="border-radius: 50%; width: 250px; height: 250px;" /> <h1><span style="color: #ff201e">Operator</span><span style="color: #ffffff">Razz</span><span style="color: #ff201e">.</span></h1></div>
+<div style="display: inline;"><h1><span style="color: #ff201e">Operator</span><span style="color: #ffffff">Razz</span><span style="color: #ff201e">.</span></h1></div>
 # <span style="color: #ff201e">Operator</span><span style="color: #ffffff">Razz</span><span style="color: #ff201e">.</span>
 #### Maker • Laser enthusiast • Woodworker • Techie • PC gamer • Overthinker • Always learning • Positive vibes<br>
 <u>Social Links</u> <br>
