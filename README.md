@@ -1,5 +1,6 @@
-# <span style="color: #ff201e">Quick.</span> The fastest and easiest way to&nbsp;create a&nbsp;GitHub Pages website for your project.
-#### The Quick theme magically transforms your `README.md` into a GitHub Pages site, applying clean and visually appealing styles.
+# <span style="color: #ff201e">OperatorRazz.</span> The fastest and easiest way to&nbsp;create a&nbsp;GitHub Pages website for your project.
+#### Maker • Laser enthusiast • Woodworker • Techie • PC gamer • Overthinker<br>
+Always learning • Positive vibes
 
 Social Links: 
 <a href="#">Twitch</a><br>
