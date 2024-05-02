@@ -1,6 +1,6 @@
 # <span style="color: #ff201e">OperatorRazz</span>.
 #### Maker • Laser enthusiast • Woodworker • Techie • PC gamer • Overthinker • Always learning • Positive vibes
-<img src="/assets/images/operatorrazz.png" alt="OperatorRazz" style="border-radius: 50%;" />
+<img src="/assets/images/operatorrazz.png" alt="OperatorRazz" style="border-radius: 50%; width: 250px; height: 250px;" />
 <u>Social Links</u> <br>
 <a href="https://www.twitch.tv/operatorrazz">Twitch</a><br>
 <a href="https://www.youtube.com/@operatorrazz/">YouTube</a><br>
