@@ -1,5 +1,5 @@
 <div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; padding: 10px; box-sizing: border-box; border: 1px solid #ccc;">
+  <div style="flex: 0; padding: 10px; box-sizing: border-box; border: 1px solid #ccc;">
     <img src="/assets/images/operatorrazz.png" alt="OperatorRazz" style="border-radius: 50%; width: 250px; height: 250px;" />
   </div>
   <div style="flex: 1; padding: 10px; box-sizing: border-box; border: 1px solid #ccc;">
