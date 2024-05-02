@@ -47,6 +47,11 @@
       href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.min.css"
       {% endif %}
     />
+    <style>
+      body > footer, body > header, body > main {
+        padding: 0 !important;
+      }
+    </style>
     <!-- Base styles -->
     <link rel="stylesheet" href="{{ "assets/css/styles.css" | relative_url }}">
     <!-- Code highlight styles -->
