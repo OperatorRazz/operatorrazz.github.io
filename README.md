@@ -1,4 +1,5 @@
-<img src="/assets/images/operatorrazz.png" alt="OperatorRazz" style="border-radius: 50%; width: 250px; height: 250px;" /> # <span style="color: #ff201e">Operator</span><span style="color: #ffffff">Razz</span><span style="color: #ff201e">.</span>
+<img src="/assets/images/operatorrazz.png" alt="OperatorRazz" style="border-radius: 50%; width: 250px; height: 250px;" /> 
+# <span style="color: #ff201e">Operator</span><span style="color: #ffffff">Razz</span><span style="color: #ff201e">.</span>
 #### Maker • Laser enthusiast • Woodworker • Techie • PC gamer • Overthinker • Always learning • Positive vibes<br>
 <u>Social Links</u> <br>
 <a href="https://www.twitch.tv/operatorrazz">Twitch</a><br>
