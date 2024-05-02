@@ -7,7 +7,7 @@
     <h2>Column 2</h2>
     <p>This is the content of column 2.</p>
   </div>
-  <div class="row" style="clear: both; padding: 10px; margin-top: 10px; border: 1px solid #ccc;">
+  <div class="row" style="clear: both; padding: 10px; margin-top: 10px; border: 1px solid #ccc; width: 100%;">
     <h2>Spanning Row</h2>
     <p>This row spans both columns.</p>
   </div>
