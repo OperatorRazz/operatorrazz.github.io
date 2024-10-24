@@ -6,7 +6,7 @@
     max-width: 80%; /* Optional: Limit content width */">
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
   <div style="flex: 0 auto; padding: 10px; box-sizing: border-box;">
-    <img src="/assets/images/operatorrazz.png" alt="OperatorRazz" style="border-radius: 50%; width: 250px; height: 250px;" />
+    <img src="/assets/images/#" alt="OperatorRazz" style="border-radius: 50%; width: 250px; height: 250px;" />
   </div>
   <div style="flex: 1; padding: 10px; box-sizing: border-box;">
     <h1><span style="color: #ff201e" class="nameHeading">Operator</span><span style="color: #ffffff" class="nameHeading">Razz</span><span style="color: #ff201e">.</span></h1>
