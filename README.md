@@ -12,8 +12,6 @@
     <h1><span style="color: #ff201e" class="nameHeading">Operator</span><span style="color: #ffffff" class="nameHeading">Razz</span><span style="color: #ff201e">.</span></h1>
     <h4>Maker • Laser enthusiast • Woodworker • Techie • PC gamer • Baker/Cook • Overthinker • Always learning • Positive vibes</h4>
       <a href="https://bsky.app/profile/operatorrazz.com">Bluesky</a> <span class="social_divider">/</span> <a href="https://mastodon.gamedev.place/@OperatorRazz">Mastodon</a> <span class="social_divider">/</span> <a href="https://www.twitch.tv/operatorrazz">Twitch</a> <span class="social_divider">/</span> <a href="https://www.youtube.com/@operatorrazz/">YouTube</a> <span class="social_divider">/</span> <a href="https://flipboard.com/@OperatorRazz">Flipboard</a> <br>
-<button id="myButton" onclick="showText()">SHOW EMAIL</button>
-  <p id="hiddenText" style="display: none; margin: 25px;"><a href="mailto:razz@operatorrazz.com">Razz@OperatorRazz.com</a></p>
   </div>
 </div>
   </div>
